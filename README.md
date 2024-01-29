@@ -1,6 +1,5 @@
 # Sql-Assingment
 
-Certainly! Below is a sample README file that you can use for your GitHub repository to document the SQL analysis for RSVP Movies:
 
 RSVP Movies Data Analysis Project
 Overview
