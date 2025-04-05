@@ -21,10 +21,11 @@ pgsql
 Copy
 Edit
 📁 RSVP-Movies-SQL-Project/
-│
-├── 📄 IMDB question.sql          # Contains all the solved SQL queries
-├── 📄 Executive_Summary.pdf      # 250-word summary with insights and recommendations
-└── 📄 README.md                  # Project documentation
+
+📄 IMDB question.sql          # Contains all the solved SQL queries
+📄 Executive_Summary.pdf      # 250-word summary with insights and recommendations
+📄 README.md                  # Project documentation
+
 🔍 Key Highlights
 Wrote optimized SQL queries using JOINs, GROUP BY, subqueries, and window functions
 
